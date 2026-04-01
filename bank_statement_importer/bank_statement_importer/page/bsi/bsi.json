@@ -4,13 +4,23 @@
  "docstatus": 0,
  "doctype": "Page",
  "idx": 0,
- "modified": "2026-04-01 08:32:28.768498",
+ "modified": "2026-04-01 09:29:34.727727",
  "modified_by": "Administrator",
  "module": "Bank Statement Importer",
  "name": "bsi",
  "owner": "Administrator",
  "page_name": "bsi",
- "roles": [],
+ "roles": [
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "Accounts Manager"
+  },
+  {
+   "role": "Accounts User"
+  }
+ ],
  "script": null,
  "standard": "Yes",
  "style": null,
