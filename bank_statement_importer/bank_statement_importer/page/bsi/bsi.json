@@ -1,0 +1,19 @@
+{
+ "content": null,
+ "creation": "2026-04-01 08:32:28.768498",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2026-04-01 08:32:28.768498",
+ "modified_by": "Administrator",
+ "module": "Bank Statement Importer",
+ "name": "bsi",
+ "owner": "Administrator",
+ "page_name": "bsi",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Bank Statement Importer"
+}
